@@ -2,7 +2,7 @@
 
 This guide provides step-by-step instructions to install HttpCanary with the necessary certificates on non-rooted Android devices running versions 11 or 12.
 
-![HttpCanary](https://raw.githubusercontent.com/ak-alien/XtraxtGuard/refs/heads/main/src/HttpCanary.png)
+![HttpCanary](https://raw.githubusercontent.com/ak-alien/HttpCanary/refs/heads/main/src/HttpCanary.png)
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ This guide provides step-by-step instructions to install HttpCanary with the nec
 ## Installation Steps
 
 ### 1. Install the Provided Application
-- Locate and install the **HttpCanary v2.7.0** application from the extracted files.
+- Locate and install the `HttpCanary v2.7.0` application from the extracted files.
 - Open the app; upon seeing "Successfully Imported App Data," exit the application.
 
 ### 2. Install CA Certificate
@@ -36,7 +36,7 @@ This guide provides step-by-step instructions to install HttpCanary with the nec
 - Name the certificate as **"Http Canary"** and confirm.
 
 ### 5. Install HttpCanary Application **v3.3.6**
-- From the extracted folder, install the **HttpCanary** application.
+- From the extracted folder, install the **`HttpCanary V3.3.6`** application.
 - Open the app and accept the terms to complete the setup.
 
 ---
