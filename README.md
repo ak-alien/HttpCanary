@@ -7,7 +7,7 @@ This guide provides step-by-step instructions to install HttpCanary with the nec
 ## Prerequisites
 
 - Ensure any previous installations of HttpCanary are uninstalled.
-- Download the required files and extract them to your device.
+- [Download](https://github.com/ak-alien/HttpCanary/releases) the required files and extract them to your device.
 
 ## Installation Steps
 
